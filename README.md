@@ -27,13 +27,13 @@ You can start developing by editing the files inside the **app** directory. This
 
 ## Screens
 - [Home] 
-<div> <img src="Screenshots/screens/Home.jpg" width="300" /> </div>
+<div> <img src="screens/Home.jpg" width="300" /> </div>
 
 - [Compare] 
-<div> <img src="Screenshots/screens/Compare.jpg" width="300" /> </div>
+<div> <img src="screens/Compare.jpg" width="300" /> </div>
 
 - [Save] 
-<div> <img src="Screenshots/screens/Home.jpg" width="300" /> </div>
+<div> <img src="screens/Saved.jpg" width="300" /> </div>
 
 ## Notes
    There app is not completed just the front end have been developed, More modifications are Coming soon.
